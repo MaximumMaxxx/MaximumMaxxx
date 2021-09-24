@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MaximumMaxxx
 - 🌱 Learning: Mcfunction, C# 
-- 📫 Discord: MaximumMaxx#8658
+- 📫 Discord: MaximumMaxx#0001
 
